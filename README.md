@@ -9,7 +9,7 @@ See usage via postman at the buttom 👇
 
 Installation:
   Open a shell, pull p4_front and p4_back from git repos
-  run front with npm install & run
+  run front with npm install then npm start
   run back w/ nodemon
 
 Usage:
