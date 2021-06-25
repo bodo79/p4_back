@@ -12,6 +12,10 @@ Installation:
   run front with npm install then npm start
   run back w/ nodemon
 
+  user_for_tests:
+    email: "rubi@gmail.com"
+    password: "rubi@gmail.com"
+
 Usage:
   Dashboard client has 4 url endpoints:
     
