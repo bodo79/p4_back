@@ -14,6 +14,7 @@ Installation:
 
 Usage:
   Dashboard client has 4 url endpoints:
+    
     login & register buttons @ http://127.0.0.1:4200
     
     login procces @ http://127.0.0.1:4200/login
@@ -23,6 +24,7 @@ Usage:
     procedure chart @ http://127.0.0.1:4200/line-chart
 
   Dashboard api has 4 url endpoints:
+    
     POST /api/data/add
     Post with body as follows:
     {'proccedure': str, 'timestamp': Number, 'value': Number}
